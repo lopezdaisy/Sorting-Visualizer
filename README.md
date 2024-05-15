@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
+![Project Image](https://github.com/lopezdaisy/Sorting-Visualizer?tab=readme-ov-file#read-me-template)
 > [Live demo](https://shubh67678.github.io/sorting-visualizer/)
 
 ---
